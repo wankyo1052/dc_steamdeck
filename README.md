@@ -1,9 +1,9 @@
 # dc_steamdeck
-1.x2 scale=0.75
+1. 오리x2 scale=0.75
 ```bash
 ENABLE_LSFG=1 LSFG_MULTIPLIER=2 LSFG_FLOW_SCALE=0.75 LSFG_PERF_MODE=1 %COMMAND%
 ```
-2.x2 scale=1
+2. 오리x2 scale=1
 ```bash
 ENABLE_LSFG=1 LSFG_MULTIPLIER=2 LSFG_FLOW_SCALE=1 LSFG_PERF_MODE=1 %COMMAND%
 ```
